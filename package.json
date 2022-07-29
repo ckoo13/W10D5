@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack --mode=development"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckoo13/W10D5.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckoo13/W10D5/issues"
+  },
+  "homepage": "https://github.com/ckoo13/W10D5#readme",
   "dependencies": {
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
@@ -17,7 +25,6 @@
     "babel-loader": "^8.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "redux": "^4.2.0",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
   }
